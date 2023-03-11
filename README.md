@@ -8,7 +8,7 @@ Com seu peso e idade, esse aplivativo faz o cálculo da quantia exata que seu co
 * Kotlin
 * Activity para host de telas
 * ViewGroup
-    * RelativeLayout
+    * ConstraintLayout
    
 - Components de UI
     - TextView
