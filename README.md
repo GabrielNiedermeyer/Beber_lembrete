@@ -14,6 +14,8 @@ Com seu peso e idade, esse aplivativo faz o cálculo da quantia exata que seu co
     - TextView
     - EditText
     - Button
+    - Alarme
+    - Lembrete 
 - Toast para display de mensagens
 - FindViewById para recuperar components de UI
 - String resource para concatenação de textos
